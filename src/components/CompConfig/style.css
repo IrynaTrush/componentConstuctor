@@ -1,0 +1,20 @@
+.components {
+    text-align: center;
+}
+
+.component__wrap {
+    margin-bottom: 25px;
+}
+
+.options__wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.option__value {
+    margin-left: 5px;
+    padding: 0 5px;
+    border-radius: 5px;
+   border: 1px solid gray;
+}
+

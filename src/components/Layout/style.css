@@ -1,0 +1,15 @@
+.wrapperApp {
+   height: 100vh;
+   background-color: #ccddff;
+   display: flex;
+   color: #808080;
+}
+
+.configWrap {
+  width: 50%;
+  border-right: 3px solid #595959;
+}
+
+.reviewWrap {
+  width: 50%;
+}

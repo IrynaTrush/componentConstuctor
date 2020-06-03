@@ -1,0 +1,4 @@
+export const ADD_OPTION = 'ADD_OPTION';
+export const CLEAR_OPTION = 'CLEAR_OPTION';
+export const CREATE_COMPONENT = 'CREATE_COMPONENT';
+export const DELETE_COMPONENT = 'DELETE_COMPONENT';
